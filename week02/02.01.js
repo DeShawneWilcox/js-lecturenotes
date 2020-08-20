@@ -275,3 +275,6 @@ for (let character in fellowshipOfTheRing.members){
 /* GOLD
     - Declare a globally scoped variable of arr that is initialized as an empty array. If the characters name does not begin with a vowel, add that character to the new array, and then console.log the array.
 */
+
+//Hello
+console.log('hello');
